@@ -1,0 +1,8 @@
+.alpackages
+.snapshots
+.vscode
+
+app.json
+*.app
+*.rdl
+*.rdlc
